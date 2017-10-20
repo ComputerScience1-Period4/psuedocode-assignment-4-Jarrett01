@@ -1,7 +1,7 @@
 give each player 26 card
 you check for the highest card
-if the player has the higher card he takes both cards and puts them at the bottom of the deck
-if the cards are the same, it is war. each player must turn up one card down and one card up.
+if the player has the higher card. the cards placed down are taken by the player with the higher card and put at the bottom of the deck.
+if the cards are the same, it is war. each player must turn one card down and one card up.
 if the player has the higher card he takes all six cards and adds them to the bottom of their deck.
 if a player has all 52 card they have won.
 repeat.
