@@ -1,12 +1,19 @@
-The goal is to be the first player to win all 52 cards
+Rules
+Only two players can play.
+Shuffle the cards.
+Deal the two players an even amount of cards.
+Make sure cards are face down.
 
-THE DEAL
-The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places his stack of cards face down, in front of him.
+Round 1
+Each player places the card on top face up on the table.
+Whichever card has a higher rank wins the cards that were played and puts the cards back into his/her deck.
+Loop while both people still have cards;
+Whoever runs out of cards first loses.
 
-THE PLAY
-Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of his stack.
-
-If the cards are the same rank, it is War. Each player turns up one card face down and one card face up. The player with the higher cards takes both piles (six cards). If the turned-up cards are again the same rank, each player places another card face down and turns another card face up. The player with the higher card takes all 10 cards, and so on.
-
-HOW TO KEEP SCORE
-The game ends when one player has won all the cards.
+Round 2
+Each player places the card on top face up on the table.
+If the cards are the same rank then
+  Place three cards face down.
+  Flip one card.
+  Loop if cards are the same rank;
+  Once a card is higher than the other, that person takes all of the cards placed in the tie and puts the cards back into his/her deck.
